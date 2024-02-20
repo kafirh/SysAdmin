@@ -1,4 +1,4 @@
-# 7 OSI Layer 🛰️
+# debian 11 vs debian 12 🛰️
 
     Nama		: Moch. Irham Kafi Billah
     NRP		    : 3122600009
