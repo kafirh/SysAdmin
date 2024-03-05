@@ -1,6 +1,6 @@
-# Konsep Jaringan
+# Administrasi Jaringan
 
-### Repository untuk menyimpan tugas konsep jaringan
+### Repository untuk menyimpan tugas Administrasi jaringan
 
     Nama		: Moch. Irham Kafi Billah
     NRP		    : 3122600009
